@@ -75,6 +75,6 @@ To see how you can add code snippets, see below:
 
 ```
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/SamuelIbanga5)
-- Twitter - [@yourusername](https://www.twitter.com/Ibangajnr10)
+- Frontend Mentor - [@SamuelIbanga5](https://www.frontendmentor.io/profile/SamuelIbanga5)
+- Twitter - [@Ibangajnr10](https://www.twitter.com/Ibangajnr10)
 
